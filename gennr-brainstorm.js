@@ -23,3 +23,4 @@ pattern
 	.repeater(myRepeater)
 
 artboard.draw(pattern)
+
